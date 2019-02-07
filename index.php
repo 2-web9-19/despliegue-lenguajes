@@ -37,7 +37,7 @@
               <img src="img/ecmascript-logo-bf5110fcdc155bf03a62c7863573ec65-21213.png" class="card-img-top" alt="EcmaScript logo">
               <div class="card-body">
                 <h5 class="card-title">EcmaScript</h5>
-                <p class="card-text">También conocido como JavaScript, la razon y la solucion a todos tus problemas, no puedes vivir sin ES, pero estarias mejor sin el.</p>
+                <p class="card-text">También conocido como JavaScript, la razon y la solucion de todos tus problemas, no puedes vivir sin este lenguaje, pero estarias mejor sin el.</p>
                 <a href="es.php" class="btn btn-primary">Leer Mas</a>
               </div>
             </div>
